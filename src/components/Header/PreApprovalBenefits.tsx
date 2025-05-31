@@ -5,7 +5,7 @@ export default function PreApprovalBenefits() {
     <div className="">
       <div className="mx-auto py-16 max-w-[750px] px-5 md:px-[50px] bg-[#f8f9fb]">
         <h2 className="text-2xl lg:text-3xl font-medium text-[#1d3f59] mb-5 md:ml-12">
-          With a UNIFICU pre-approval, you can:
+          With a UNFCU pre-approval, you can:
         </h2>
 
         <div className="space-y-8">
